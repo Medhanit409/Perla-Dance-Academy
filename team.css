@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(124, 165, 204);text-align: center;
+}
+.banner-text {
+    width: 100%;
+    position:absolute;
+}
+.banner-text ul{
+    height: 50px;
+    float: right;
+}
+.banner-text ul li{
+    display: inline-block;
+    padding: 40px 15px;
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+}
