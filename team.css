@@ -6,7 +6,6 @@ body{
     position:absolute;
 }
 .banner-text ul{
-    height: 50px;
     float: right;
 }
 .banner-text ul li{
@@ -15,4 +14,7 @@ body{
     text-transform: uppercase;
     color: white;
     font-size: 20px;
+}
+#height{
+    margin-top: 1%;
 }
